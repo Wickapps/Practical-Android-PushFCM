@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Oct 31 16:03:02 CDT 2017
+2.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\actions.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\fail.png
+5.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_menu_compose.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\simple_list_item_1.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\success.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

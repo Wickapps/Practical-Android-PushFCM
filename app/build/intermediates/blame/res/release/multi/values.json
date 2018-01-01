@@ -1,0 +1,581 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 44,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 44,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 43,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 67,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\MJW\\.android\\build-cache\\3df6d281c8f1137709c5fefb312d48333fc6f754\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 63,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 72,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 72,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 33,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 33,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 55,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 55,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 83,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 83,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 44,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 44,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 49,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 49,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 166,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\MJW\\.android\\build-cache\\3df6d281c8f1137709c5fefb312d48333fc6f754\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 166,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 143,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 143,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 81,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "C:\\Users\\MJW\\.android\\build-cache\\9ff875f6df1df0d33496b6e3d02a93f08cb311ff\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 178,
+                        "endColumn": 77,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 61,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 61,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 77,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 77,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 107,
+                    "endOffset": 1285
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 107,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1290,
+                    "endColumn": 81,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 81,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 103,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 103,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 102,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 102,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 119,
+                    "endOffset": 1694
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 119,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1699,
+                    "endColumn": 96,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 96,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 50,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 50,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 45,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 45,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endColumn": 73,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 73,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endColumn": 75,
+                    "endOffset": 2038
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 75,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 66,
+                    "endOffset": 2105
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 66,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2110,
+                    "endColumn": 50,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 50,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endColumn": 54,
+                    "endOffset": 2211
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 54,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2216,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2521
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2526,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2681
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 701
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Oct 31 20:25:57 CDT 2017
+base.0=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c85cd6af14bc296cbebedc9def4db5b705089615
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_113057e7b73b9558ca8b8135122b046168063a8a\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_113057e7b73b9558ca8b8135122b046168063a8a
+file.0=D\:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c85cd6af14bc296cbebedc9def4db5b705089615\\classes.dex

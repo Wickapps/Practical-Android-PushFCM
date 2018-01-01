@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\merged\\release\\layout\\simple_list_item_1.xml",
+        "source": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\layout\\simple_list_item_1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushFCM\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\PushFCM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
